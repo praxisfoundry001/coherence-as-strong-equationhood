@@ -1,0 +1,1 @@
+# coherence-as-strong-equationhood
