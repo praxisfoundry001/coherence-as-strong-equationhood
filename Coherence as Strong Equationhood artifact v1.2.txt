@@ -1,0 +1,474 @@
+﻿Coherence as Strong Equationhood
+Side-Failures, Facing Conditions, and the Equationhood License under Structural Flow
+I. Why Equation Translation Needs a Method
+An equation is easy to write and hard to earn.
+A symbol can be placed on the left. Another symbol can be placed on the right. An equals sign can be placed between them. The result may be useful, familiar, valid, conventional, or mathematically correct. But none of that, by itself, tells us whether the relation has been structurally earned.
+That distinction matters for Structural Flow because cross-domain work is especially vulnerable to false equationhood. A known equation may look as if it fits a structural pattern. A useful identity may invite deeper interpretation. A familiar formula may seem to carry more than it actually carries. A definition may be mistaken for discovery. A conversion factor may be mistaken for a relation package. A threshold may be mistaken for an equation. A resemblance may be mistaken for a shared invariant.
+This artifact exists to slow that down.
+Its central discovery is narrow but strong:
+in this universe as presented, the Coherence hinge itself licenses equationhood.
+That means equationhood under Structural Flow is not symbol adjacency. 
+A candidate relation does not become structurally earned merely because its symbols line up, its units match, or its form resembles a known equation. Structural Flow requires a sharper test. Each side must carry a burden. Each side must be earned at the relevant scope. Each side must be able to fail in its own way. The relation itself must also be able to fail while both sides remain locally intelligible. Only then can Coherence be asked whether the sides are merely compatible pieces or one jointly holdable relation.
+The simplest compression is:
+* the left side fails;
+* the right side fails;
+* the relation fails;
+* Coherence licenses only if the distinct burdens can be held as one.
+This is the difference between an ordinary equality and what this artifact will call strong equationhood.
+Strong equationhood is not the ordinary equals sign. It is not every useful formula. It is not every valid mathematical identity. It is not every equation used in science. It is a specific Structural Flow status: a relation in which earned, structurally distinct side-burdens stand in co-dependent relation, each side has its own failure, and the relation itself has a failure that neither side alone carries.
+That last piece is the crucial one.
+A relation becomes structurally serious when it has its own failure. If the left side fails, that is a side failure. If the right side fails, that is a side failure. But if both sides remain intelligible and the relation still cannot hold, then something else has appeared. The relation itself has become a structural object. It can fail in its own way.
+That is where the discovery appears.
+Coherence is not an after-the-fact approval word. In this universe as presented, Coherence is the hinge that licenses equationhood when distinct already-earned structures can be held as one jointly holdable relation with a shared invariant.
+Coherence does not license an equation because the notation is elegant. It does not license a relation because the pieces are compatible. It does not license a formula because the formula is famous. It licenses only when the relation has earned the kind of joint hold that Coherence alone can supply.
+Put differently:
+* identity says “same.”
+* compatibility says “these can sit together.”
+* analogy says “these resemble each other.”
+* definition says “use this term this way.”
+* accounting shorthand says “track this burden in this form.”
+* strong equationhood says “these distinct burdens must be held as one relation, and that relation has its own failure.”
+This method is therefore not a way to make more claims. It is a way to make fewer, sharper claims.
+It protects against a common mistake: treating a relation as proven because it can be expressed. But expression is not proof. Notation is not derivation. Familiarity is not warrant. A candidate relation must be tested by its burdens and its failures.
+The guiding question is:
+What fails here that cannot fail anywhere else?
+For equationhood, that question must be asked three times.
+First, what fails if the left side cannot carry its burden while the right side remains intelligible?
+Second, what fails if the right side cannot carry its burden while the left side remains intelligible?
+Third, what fails if both sides remain intelligible but cannot be held as one relation?
+Only the third failure is equationhood failure.
+That is the method this artifact develops. It gives a way to distinguish strong equationhood from weaker but still useful relation types: identity, definition, convention, compatibility, analogy, accounting shorthand, Recognition-stable equivalence, Boundary-threshold condition, asymptotic convergence, symmetry-protected equivalence, side-completion terms, and candidate relations.
+Those weaker statuses are not failures of thought. They are honest classifications. A relation that is not strong equationhood may still be valid, useful, lawful, or necessary. But it should not be promoted beyond what it has earned.
+The goal is not to make every relation into a strong equation.
+The goal is to know when one has actually been earned.
+II. Scope and Non-Claims
+This artifact defines Coherence-licensed strong equationhood as a Structural Flow method.
+It does not define all mathematical equality.
+It does not claim that ordinary identities are invalid. It does not claim that definitions are invalid. It does not claim that conventions, unit conversions, accounting relations, thresholds, limiting relations, or compatibility statements are useless. Many such relations are indispensable. They may be mathematically valid, operationally necessary, or domain-standard.
+They are simply not all strong equationhood.
+Strong equationhood is a narrower status. It names the condition under which the Coherence hinge licenses a relation between earned, structurally distinct, structurally co-dependent side-burdens whose relation-failure is distinct from either side-failure.
+This artifact therefore works at the level of structural warrant.
+It does not certify empirical truth. It does not supply formal proof. It does not derive measured constants. It does not prove that a physical theory is correct. It does not prove that a domain model is accurate. It does not replace measurement, formal derivation, experiment, observation, or domain expertise.
+A relation may pass the Structural Flow strong-equationhood test and still require empirical testing, formal proof, numerical calibration, or domain-specific closure. Passing the test means the relation has earned a structural license at the stated scope. It does not mean all downstream burdens are closed.
+The theorem also does not earn its own sides.
+This is one of the most important limits. A candidate relation cannot make unearned side-burdens earned. If the left side has not been independently derived, stabilized, authorized, or otherwise justified at the relevant scope, placing it inside an equation does not supply the missing warrant. The same is true of the right side.
+Equationhood cannot launder unearned sides.
+For a candidate relation to enter the strong-equationhood test, each side must already carry an earned structural burden. That earning may come through the Failure-Side Discrimination sequence or through an explicitly demonstrated equivalent process satisfying the same structural burdens. Declared earning is not enough. Domain authority is not enough. Familiar terminology is not enough. The side-burden must be shown.
+This artifact also does not pre-clear any candidate equation.
+No relation receives strong-equationhood status merely because it appears as an example here. Each candidate must do its own work. It must show its side-burdens, side-failures, relation-failure, co-dependency, shared invariant, and scope limits.
+The theorem is also formulated first for binary relations: relations that can be analyzed as two structurally distinguishable sides. Many familiar equations fit this form, at least after careful grouping by burden rather than typography.
+But not all relations are binary. Some relations are genuinely n-ary. Some involve multiple independent burdens, decompositions, residues, side-completion terms, or structured families. Those may be analyzable by extension, but they are not automatically covered by the basic binary theorem. They require explicit extension of the criteria.
+The rule is:
+do not force an n-ary relation into a binary frame without saying so.
+Similarly, not every term in a written expression is a side. Some terms complete, modify, normalize, convert, or preserve a side-burden. Some terms are relation packages. Some terms are side-residue or side-completion terms. A public formula may have many symbols, but the method asks first:
+what are the actual burdens?
+Typography does not decide structure. Burden does.
+This scope discipline also applies to inequalities.
+A threshold or admissibility relation such as:
+κ_bχ(γ, μ_b) ≤ τ_b
+may be lawful, useful, and structurally important. But its native burden is often Boundary-level: does a candidate remain within a threshold, tolerance, limit, or regime-entry condition? That is not automatically strong equationhood. An inequality may earn stronger status only if it independently satisfies the strong-equationhood criteria. Otherwise, it should be classified honestly as a Boundary-threshold or admissibility relation.
+The same caution applies to familiar equations.
+A famous relation is not automatically strong equationhood. A standard textbook formula is not automatically strong equationhood. A useful empirical law is not automatically strong equationhood. Familiarity is not warrant.
+A relation must show what its sides do, how they fail, how their failures are co-dependent at the level of structural demand, what fails when the relation fails, and what shared invariant neither side alone carries.
+That is the test.
+This artifact therefore has a double purpose.
+First, it gives a theorem for strong equationhood under Structural Flow.
+Second, it gives a sorting method for relations that do not meet that standard.
+A relation that fails the strong-equationhood test may still be:
+* identity,
+* definition,
+* convention,
+* compatibility,
+* analogy,
+* accounting shorthand,
+* Recognition-stable equivalence,
+* Boundary-threshold condition,
+* asymptotic convergence,
+* symmetry-protected equivalence,
+* side-residue or side-completion,
+* candidate equationhood.
+Those classifications matter. They preserve useful relations without inflating them.
+The artifact’s governing posture is therefore:
+* earn the sides;
+* distinguish the failures;
+* test co-dependency;
+* name relation-failure;
+* identify the shared invariant;
+* then ask whether Coherence licenses the hold.
+Only then may a candidate relation be treated as strong equationhood under Structural Flow.
+III. Definitions
+Before the theorem can be stated, the method needs stable terms.
+This section defines the working vocabulary for strong equationhood under Structural Flow. The terms are deliberately narrow. They are not meant to replace ordinary mathematical vocabulary. They are used here to decide when a candidate relation has earned strong equationhood rather than some weaker but still useful relation-status.
+Candidate Relation
+A candidate relation is a proposed formal relation between expressions, structures, quantities, conditions, or burdens.
+The simplest form is:
+A = B
+But a candidate relation may also include relation packages, side-completion terms, structured expressions, inequalities, limits, transformations, or multi-term groupings.
+A candidate relation is not assumed to be strong equationhood merely because it is written with an equals sign.
+An equals sign may express identity, definition, convention, unit conversion, accounting shorthand, compatibility, or formal equivalence. Those can be valid. But validity alone is not the same as strong equationhood under Structural Flow.
+The first question is therefore not:
+Is this written as an equation?
+The first question is:
+What structural burdens are being related?
+Side
+A side is one structurally distinguishable position in a candidate relation.
+In:
+A = B
+A is one side and B is the other side.
+But “side” does not mean typography alone. A written expression may contain many terms while carrying one structural burden. Or one written side may contain multiple burdens that need to be separated before the relation can be tested.
+For example:
+G_μν + Λg_μν = κT_μν
+does not automatically contain three independent sides simply because three major terms appear. The method must ask what burden each term carries. Λg_μν may be a side-completion or baseline geometry-response term rather than an independent side-burden. That has to be determined by burden and failure, not by appearance on the page.
+The rule is:
+group by burden, not by typography.
+Side-Burden
+A side-burden is the structural role carried by one side of a candidate relation.
+It answers:
+What must this side do?
+Not merely:
+What is this side called?
+A side-burden is not a label. It is the work a side carries inside the proposed relation.
+For example, in the Einstein field equation:
+G_μν = κT_μν
+the side-burden of G_μν is not merely “the Einstein tensor.” In the Structural Flow translation, its burden is source-facing geometry-response.
+The side-burden of T_μν is not merely “stress-energy.” Its burden is geometry-facing source-profile.
+The side-burden of κ is not merely “constant.” Its burden is to package the relation by which source-profile becomes answerable as geometry-response.
+Strong equationhood requires side-burdens, not just side-names.
+Earned Side-Burden
+An earned side-burden is a side-burden that has been independently derived, authorized, justified, or stabilized at the relevant scope before the candidate relation is tested.
+This is a hard gate.
+A side-burden is not earned because the writer names it. It is not earned because the domain already uses the term. It is not earned because a formula is famous. It is not earned because a relation would be attractive if the side were accepted.
+A side-burden is earned only when its structural work has been shown.
+In this artifact, the earning of side-burdens depends on the Failure-Side Discrimination sequence or an explicitly demonstrated equivalent process satisfying the same structural burdens. Declared equivalence is not enough. Domain authority is not enough. The side must be shown to have enough structural support to enter the strong-equationhood test.
+This is the No-Laundering Principle:
+equationhood cannot launder unearned sides.
+A candidate relation may organize earned sides. It may test whether earned sides can be held together. It may expose that an earning burden remains open. But it cannot make an unearned side become earned by placing it inside an equation.
+Non-Circularity Guard
+The Non-Circularity Guard says that neither side may receive its structural burden only from the relation being tested.
+If A is defined only as “whatever makes A = B true,” then A has not been independently earned. If B is defined only as “whatever balances A,” then B has not been independently earned.
+A relation cannot define its sides into eligibility.
+This guard matters especially for reciprocal definitions. Some relations may be valid definitions. They may be useful. They may be standard in a domain. But if one side receives its burden only from the other side through the relation itself, the relation is not strong equationhood.
+Principle:
+the equation cannot create the sides it claims to relate.
+Structural Distinctness
+Two side-burdens are structurally distinct when each carries a burden the other does not and cannot simply absorb.
+The distinction must be structural, not merely verbal.
+Two different words may name the same burden. Two different notations may express the same content. Two different unit systems may carry the same structure at different scales. None of that, by itself, creates structural distinctness.
+Structural distinctness requires that each side does work the other side does not already do.
+If one side is only a label for the other side’s computation, the relation is likely definition or accounting shorthand.
+If one side is only a conversion of the other side’s scale, the relation is likely Recognition-stable equivalence or convention.
+If the sides carry the same undifferentiated burden, they are not structurally distinct.
+Principle:
+different notation is not different burden.
+Side-Failure
+A side-failure is what fails when one side cannot carry its burden while the other side remains locally intelligible.
+The left-side failure asks:
+What fails if the left side cannot carry its burden, while the right-side burden still makes sense?
+The right-side failure asks:
+What fails if the right side cannot carry its burden, while the left-side burden still makes sense?
+This matters because a side is not structurally serious unless it can fail in its own way.
+If the left side and right side always fail for exactly the same reason, then the relation probably does not contain distinct side-burdens. It may be identity, definition, convention, or shorthand.
+Strong equationhood requires distinct side-failures.
+Principle:
+each side must be able to fail as itself.
+Relation-Level Co-Dependency
+Relation-level co-dependency is the condition in which each side’s failure as a burden-carrier at the relevant scope can constrain or destabilize the structural demand the other side is answering.
+This does not mean simple mutual causation.
+It does not mean the left side creates the right side. It does not mean the right side creates the left side. It does not mean every local failure propagates everywhere.
+It means that, inside the relation, the burdens are structurally answerable to one another. The failure of one side is not merely a separate local event. It affects the structural demand the other side is being asked to meet.
+This is what separates strong equationhood from compatibility.
+Compatibility says:
+these structures can coexist.
+Relation-level co-dependency says:
+these structures are mutually implicated in the hold of the relation.
+Principle:
+co-dependency is about the relation’s hold, not mutual causation.
+Relation-Failure
+A relation-failure is what fails when both sides remain locally intelligible but cannot be held as one relation.
+This is the central concept of the artifact.
+If the left side fails, that is side-failure.
+If the right side fails, that is side-failure.
+But if the left side still makes sense, and the right side still makes sense, yet the relation between them cannot hold, then the relation itself has failed.
+That is relation-failure.
+Strong equationhood requires relation-failure that is distinct from either side-failure.
+If the relation cannot fail separately from the sides, then Coherence has no relation-object to license.
+Principle:
+the sides still make sense; the equation does not.
+Joint-Hold Failure
+Joint-hold failure is the specific relation-failure relevant to strong equationhood.
+Joint-hold failure occurs when earned, structurally distinct, co-dependent side-burdens remain locally intelligible, but their relation cannot be held as one jointly holdable invariant relation.
+It is not merely measurement mismatch.
+It is not merely empirical disconfirmation.
+It is not merely arithmetic error.
+It is not merely the failure of one side to exist.
+It is the failure of the relation as a relation.
+This is the failure signature strong equationhood must be able to name.
+Principle:
+joint-hold failure is where Coherence would have been needed and does not hold.
+Shared Structural Invariant
+A shared structural invariant is an invariant neither side carries alone, but which becomes holdable through the relation.
+It is not merely the conjunction of the sides.
+It is not merely the juxtaposition of the sides.
+It is not merely a relabeling of one side or both sides.
+A shared structural invariant is what the relation holds that neither side, taken alone, can carry.
+This is the key discriminator between strong equationhood and weaker relation types.
+In an accounting shorthand, the “invariant” may only be the result of a computation already contained in one side.
+In compatibility, the “invariant” may only be co-presence.
+In analogy, the “invariant” may only be resemblance.
+In strong equationhood, the invariant is relation-held.
+Principle:
+neither side owns it alone; the relation holds it.
+Relation Package
+A relation package is a term, factor, operator, coefficient, or transformation burden that enables structurally distinct side-burdens to become mutually answerable inside the relation without collapsing either side into the other.
+A relation package is not merely a coefficient that makes an expression formally correct.
+It must be structurally demanded.
+A relation package is structurally demanded when its removal causes relation-level co-dependency to fail, not merely when its removal makes the expression numerically or formally incorrect.
+For example, in:
+G_μν = κT_μν
+κ may function as a relation package because it carries the source/geometry relation burden. It helps source-profile and geometry-response face each other without either side collapsing into the other.
+By contrast, in:
+h = 2πℏ
+2π is not automatically a relation package. It may be a conversion factor between full-cycle and reduced-angular forms. Unless deeper work earns distinct side-burdens, co-dependency, and relation-failure, the relation remains Recognition-stable equivalence or accounting convention, not strong equationhood.
+Principle:
+some equations need a bridge term; not every coefficient is a bridge.
+Side-Residue or Side-Completion Term
+A side-residue or side-completion term is a term that modifies, completes, preserves, or corrects one side-burden without becoming an independent side-burden.
+Not every term is a side.
+Some terms belong to the internal accounting of one side. They may carry baseline, residue, correction, completion, boundary, or support burdens.
+For example:
+G_μν + Λg_μν = κT_μν
+may be read as geometry-response plus baseline metric-proportional geometry response facing source-profile. At that scope, Λg_μν is not automatically a separate side. It may be a side-completion or baseline term on the geometry side.
+Whether a term is a side-burden, side-completion, relation package, or independent burden depends on its failure signature and structural role.
+Principle:
+not every term is a side; some terms complete a side.
+Multi-Term Grouping Rule
+The Multi-Term Grouping Rule says:
+group by burden, not by typography.
+A multi-term expression constitutes one side-burden if its terms share one earned failure signature.
+Terms that fail distinctly and non-absorbably are distinct burdens, regardless of where they appear in the written formula.
+This rule prevents the method from treating all written terms as independent sides. It also prevents the opposite mistake: hiding multiple distinct burdens inside one typographic side.
+The grouping question is:
+Do these terms share one earned failure signature, or do they fail distinctly?
+If they share one failure signature, they may form one grouped side-burden.
+If they fail distinctly and non-absorbably, they must be analyzed as distinct burdens, even if they appear on the same written side.
+Principle:
+failure decides grouping.
+Boundary-Threshold Relation
+A Boundary-threshold relation governs admissibility, limit, tolerance, pass/fail condition, or regime entry.
+A typical form is:
+κ_bχ(γ, μ_b) ≤ τ_b
+Such a relation may be lawful and structurally important. It may tell us whether a candidate remains within a boundary condition. But it is not automatically strong equationhood.
+Its native question is:
+does this candidate remain inside the threshold?
+not:
+can two earned side-burdens be held as one Coherence-licensed relation?
+An inequality may earn strong-equationhood status only if it independently satisfies the strong-equationhood criteria. Otherwise, it should be classified as a Boundary-threshold or admissibility condition.
+Principle:
+thresholds govern entry; strong equations hold co-dependent burdens as one.
+Recognition-Stable Equivalence
+A Recognition-stable equivalence preserves the same binding content across variable expression, notation, frame, unit, or local description.
+Its burden is sameness across variation.
+For example:
+h = 2πℏ
+may be read as the same action-scale burden expressed in full-cycle and reduced-angular forms. That can be useful, valid, and structurally meaningful. But unless the relation earns distinct side-burdens, co-dependency, and joint-hold failure, it remains Recognition-stable equivalence or accounting convention rather than strong equationhood.
+Principle:
+Recognition preserves sameness across variation.
+Asymptotic Convergence
+Asymptotic convergence is a relation of approach, tendency, or limiting behavior.
+A common form is:
+A → B as t → ∞
+This is not identity. It is not strong equationhood by default. It is a directional relation. It may belong to Cascade, Drift, stabilization, limiting behavior, or domain-specific dynamics.
+Asymptotic convergence can be lawful and important, but it should not be inflated into strong equationhood merely because one structure approaches another.
+Principle:
+direction is not equationhood.
+Symmetry-Protected Equivalence
+Symmetry-protected equivalence is a relation in which non-identical expressions remain equivalent under an authorized transformation, symmetry, or redescription rule.
+This may be Recognition-level or architecture-level. It can be very strong. It can be indispensable in formal systems. But it is not automatically strong equationhood.
+The question remains:
+are distinct side-burdens being held as one Coherence-licensed relation, or is the same content being preserved across lawful transformation?
+If the burden is sameness across transformation, the relation may be Recognition-stable or symmetry-protected equivalence.
+If the burden is co-dependent joint hold between structurally distinct sides, it may enter strong-equationhood testing.
+Principle:
+symmetry may protect equivalence without producing strong equationhood.
+Level-Compatibility / No Hidden Skew
+The Level-Compatibility Rule says that side-burdens must be authorized at compatible relation-levels, or the bridge, descent, ladder, interface, or relation package that makes their joint hold lawful must be explicitly derived.
+The sides do not always have to belong to the same hinge-depth in a flat way. Some lawful relations may bridge levels. But the bridge cannot be hidden.
+A relation cannot silently join a Boundary-level condition to a Recognition-level object, or a local threshold to a Coherence-level relation, and then claim strong equationhood without deriving the interface that makes the joint hold lawful.
+Principle:
+no hidden skew.
+Coherence License
+A Coherence license is the Structural Flow condition under which the Coherence hinge licenses already-earned and already-recognized structures as one jointly holdable relation with a shared invariant.
+Coherence is not a decorative stamp.
+It does not approve a relation because the notation looks right.
+It does not approve a relation because the relation is familiar.
+It does not approve a relation because the sides are compatible.
+Coherence licenses strong equationhood only when the criteria have been genuinely discharged.
+Coherence also refuses.
+If the side-burdens are unearned, indistinct, circular, merely compatible, non-co-dependent, or lack distinct relation-failure, Coherence does not license strong equationhood.
+Principle:
+Coherence says yes only because it can say no.
+Strong Equationhood
+Strong equationhood is the Coherence-licensed condition in which earned, structurally distinct side-burdens have failures co-dependent at the level of structural demand, and the relation holds a shared invariant neither side carries alone.
+More fully:
+A candidate relation qualifies as strong equationhood when earned, structurally distinct side-burdens stand in relation-level co-dependency; each side has a distinct failure not absorbed by the other; both sides may remain locally intelligible while the relation itself fails; that relation-failure is distinct from either side-failure; and the relation holds a shared structural invariant that neither side alone carries and that is not merely the conjunction, juxtaposition, or relabeling of the sides.
+When those conditions are genuinely discharged, Coherence licenses the relation as one jointly holdable strong equation.
+Principle:
+strong equationhood is Coherence-licensed non-identity.
+IV. Strong Equationhood Theorem under Structural Flow
+This section states the theorem.
+It should be read with the scope already fixed. This is not a theorem of all mathematical equality. It is a Structural Flow method theorem for deciding when a candidate relation has earned strong equationhood.
+The theorem’s central burden is simple:
+Coherence does not license sameness.
+Coherence licenses distinct burdens held as one relation.
+That is the discovery this artifact isolates: in this universe as presented, the Coherence hinge is what licenses equationhood once the burdens, failures, co-dependency, and shared invariant have been earned. 
+A relation may be true, useful, definitional, conventional, or mathematically valid without being strong equationhood. Strong equationhood requires more. It requires earned sides, distinct failures, relation-level co-dependency, joint-hold failure, and a shared structural invariant neither side carries alone.
+The ratcheted theorem is:
+Under Structural Flow, a candidate relation qualifies as strong equationhood at a stated scope if and only if earned, structurally distinct side-burdens stand in relation-level co-dependency — such that each side’s failure as a burden-carrier at the relevant scope can constrain or destabilize the structural demand the other side is answering — each side has a distinct failure not absorbed by the other, both sides may remain locally intelligible while the relation itself fails, and that relation-failure is irreducible to either side-failure.
+When those conditions are genuinely discharged and the relation holds a shared structural invariant that neither side alone carries, and that is not merely the conjunction, juxtaposition, or relabeling of the side-burdens, Coherence licenses the relation as one jointly holdable strong equation.
+This is the strong-equationhood biconditional.
+It has two sides.
+First:
+If a relation is strong equationhood under Structural Flow, then these conditions must hold.
+Second:
+If these conditions genuinely hold at the stated scope, then Coherence licenses the relation as strong equationhood.
+The “genuinely” matters. The theorem cannot be passed by filling in blanks. It cannot be passed by clever vocabulary. It cannot be passed by declaring that a side-burden has been earned. The earning has to be shown. The failures have to be distinct. The co-dependency has to be real. The relation-failure has to be separate from either side-failure. The shared invariant has to be more than a label placed over both sides.
+This is why the theorem is restrictive.
+It should be restrictive.
+If the theorem were easy to pass, it would not protect equationhood. It would become a claim-making machine. But the purpose of the theorem is the opposite. It is designed to prevent identity, compatibility, analogy, convention, and accounting shorthand from being promoted too quickly.
+The criteria are as follows.
+Criterion 1 — Earned Side-Burdens
+Each side must carry a structural burden earned through the Failure-Side Discrimination sequence, or through an explicitly demonstrated equivalent process satisfying the same structural burdens.
+Declared earning is insufficient.
+A side is not earned because it appears in a familiar equation. It is not earned because a domain uses the term. It is not earned because the relation would be attractive if the side were accepted. It is earned only when its structural burden has been independently shown at the relevant scope.
+This is the first gate because relation-work cannot repair missing side-work.
+If the sides are unearned, the relation cannot be strong equationhood.
+Principle:
+earn the sides before testing the equation.
+Criterion 2 — Structural Distinctness
+The side-burdens must be structurally distinct.
+Each side must carry a burden the other does not and cannot absorb.
+Different notation is not enough. Different words are not enough. Different unit scales are not enough. A label on one side and a computation on the other are not enough.
+The sides must do different structural work.
+If one side is only a restatement, relabeling, convention, or expression-form of the other, the relation may be valid, but it is not strong equationhood.
+Principle:
+different side-burdens, not different labels.
+Criterion 3 — Distinct Side-Failures
+Each side must have a distinct failure not absorbed by the other side’s failure.
+The left side must be able to fail as left side while the right-side burden remains locally intelligible.
+The right side must be able to fail as right side while the left-side burden remains locally intelligible.
+If both sides always fail together for the same reason, then they are probably not structurally distinct burdens. They may be the same burden in different expression forms.
+Strong equationhood requires each side to be able to fail as itself.
+Principle:
+each side must have its own failure.
+Criterion 4 — Relation-Level Co-Dependency
+Each side’s failure as a burden-carrier at the relevant scope must be able to constrain or destabilize the structural demand the other side is answering.
+This is not ordinary compatibility.
+Two structures may coexist. They may sit beside one another. They may be jointly useful. But that does not make them strongly equation-held.
+Relation-level co-dependency means the sides are mutually implicated in the hold of the relation. The failure of one side matters to the structural demand the other side is being asked to meet.
+This criterion prevents mere joint preconditions from being mistaken for equationhood.
+Principle:
+the sides must be answerable to each other, not merely adjacent.
+Criterion 5 — Local Intelligibility Under Relation-Failure
+Both sides must be able to remain locally intelligible while the relation itself fails.
+This is the hinge of the theorem.
+If the left side fails, that is not yet equationhood failure.
+If the right side fails, that is not yet equationhood failure.
+Strong equationhood requires a third possibility:
+the left side still makes sense;
+the right side still makes sense;
+but the relation cannot hold.
+That is what makes the relation structurally real.
+Principle:
+the sides still make sense; the equation does not.
+Criterion 6 — Irreducible Relation-Failure
+The relation-failure must be distinct from either side-failure.
+It cannot be only a disguised left-side failure. It cannot be only a disguised right-side failure. It cannot be only an arithmetic error. It cannot be only an empirical mismatch. It cannot be only a definitional inconsistency.
+It must be the failure of the relation as relation.
+This is the point where the failure question becomes decisive:
+What fails here that cannot fail anywhere else?
+For strong equationhood, the answer must be:
+the joint hold of the relation fails while the sides remain intelligible.
+Principle:
+no distinct relation-failure, no strong equationhood.
+Criterion 7 — Shared Structural Invariant
+The relation must hold a shared structural invariant that neither side alone carries.
+That invariant cannot be merely the conjunction of the sides.
+It cannot be merely the juxtaposition of the sides.
+It cannot be merely the relabeling of one side or both sides.
+A shared invariant is not:
+Side A plus Side B with a name attached.
+A shared invariant is what becomes holdable only through the relation.
+This criterion blocks accounting shorthand, compatibility, and clever relabeling from passing as strong equationhood.
+Principle:
+neither side owns it alone; the relation holds it.
+Conclusion — Coherence License
+When these criteria are genuinely discharged, Coherence licenses the candidate relation as strong equationhood.
+The criteria test whether the relation has reached the Coherence threshold. The conclusion is the license: Coherence holds the earned relation as one strong equation. 
+Coherence is the conclusion, not one more criterion.
+The method does not say:
+Coherence licenses the relation because Coherence licenses the relation.
+It says:
+when the side-burdens are earned, structurally distinct, failure-distinct, co-dependent, relation-failure-bearing, and invariant-holding, then Coherence licenses the relation as one jointly holdable strong equation.
+If the criteria are not discharged, Coherence does not license strong equationhood.
+The relation may still be useful. It may still be lawful. It may still belong somewhere important in the relation-status ladder. But it should not be promoted to strong equationhood.
+Principle:
+Coherence licenses only after the burdens and failures have done their work.
+Theorem Failure Signature
+The theorem itself also has a failure signature.
+If the Strong Equationhood Theorem fails, Coherence becomes approval rather than discrimination.
+That is the unique danger.
+Without this theorem, Coherence could become a decorative stamp placed on any attractive relation. Identity could be inflated into equationhood. Compatibility could be inflated into equationhood. Accounting shorthand could be inflated into equationhood. Analogy could be inflated into equationhood. Thresholds could be inflated into equationhood.
+The theorem prevents that by preserving Coherence as a real hinge rather than a decorative approval word.
+Coherence can license only because it can also refuse.
+So the theorem’s own failure signature is:
+Coherence loses its ability to say no.
+Principle:
+if this theorem fails, Coherence becomes approval instead of discrimination.
+That is why the theorem matters.
+It does not merely certify strong equations. It protects the boundary around equationhood itself.
+
+
+
+
+Declaration of Generative AI and AI-Assisted Technologies
+During the preparation and revision of this manuscript, the author used generative AI tools to assist with drafting support, language refinement, structural editing, technical organization, equation-format cleanup, title development, and clarity. All substantive arguments, theoretical claims, scope decisions, technical framing, mathematical-status judgments, and final editorial judgments are the author’s own. The author reviewed and approved the final manuscript and takes full responsibility for its content.
+
+
+
+
+Coherence as Strong Equationhood
+Side-Failures, Facing Conditions, and the Equationhood License under Structural Flow
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Signed,
+
+
+Rick
