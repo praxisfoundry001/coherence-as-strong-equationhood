@@ -42,6 +42,3 @@ PDF available via DOI link:
 
 **DOI:** https://doi.org/10.5281/zenodo.20173789
 
-After Zenodo publication, replace this line with:
-
-**DOI:** https://doi.org/[FINAL_DOI]
